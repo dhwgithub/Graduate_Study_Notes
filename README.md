@@ -16,3 +16,7 @@
 
 ## CodeToolsPackage
 测试、工具代码包，用于存放小功能类代码
+
+## QueryApplication
+- C++ Prime 第15章：单词查询程序完整代码
+- 参考：https://blog.csdn.net/xufuqiang2017/article/details/102922767
